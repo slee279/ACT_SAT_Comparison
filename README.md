@@ -1,36 +1,17 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Testing, Statistical Summaries and Inference
-
+# Standardized Testing, Statistical Summaries and Inference
 # ACT_SAT_Comparison
-
-## Docker setup
-
-**Docker students only** (disregard if you're using Anaconda): For instructions on how to run lectures and labs in Docker, click here: https://youtu.be/E54JvUKnF-4
 
 ### Overview
 
-This week in class we went over some basic statistics, learned some Python programming concepts, and also learned how to navigate files, packages, and libraries using the command line. Great start! At this point you should be champing at the bit to _do some Data Science_. If so, good - because it's time for Project 1!
+We're going to take a look at SAT and ACT scores around the United States. Suppose that the College Board - the organization that administers the SAT - seeks to improve the participation rate of its exams. Your presentation should be geared toward **non-technical** executives with the College Board and you will use, at minimum, the provided data to make recommendations about how the College Board might work to increase the participation rates of these exams.
 
-For our first project, we're going to take a look at SAT and ACT scores around the United States. Suppose that the College Board - the organization that administers the SAT - seeks to improve the participation rate of its exams. Your presentation should be geared toward **non-technical** executives with the College Board and you will use, at minimum, the provided data to make recommendations about how the College Board might work to increase the participation rates of these exams.
-
-**Goal**: A Jupyter notebook that describes your data with visualizations & statistical analysis.
-
-**Goal**: A 5-7 minute presentation targeted to your hypothetical client that highlights your findings.
-
-**Goal**: Your Jupyter notebook hosted on your personal static site.
-
----
-
-### Requirements
-
-Your work must _at a minimum_:
+### Methods
 
 - Describe the data
 - Perform methods of exploratory data analysis, including:
   - Use Matplotlib to create visualizations
   - Use NumPy to explore distributions of individual variables and relationships among pairs of variables
 - Display your cleaned Jupyter notebook on a personal static website.
-
-#### ***Bonus:***
  - Recreate all of your MatPlotLib graphs in Seaborn!
  - Use Tableau Public to create visualizations!
  - Create a blog post of at least 500 words (and 1-2 graphics!) describing your data, analysis, and approach. Link to it in your Jupyter notebook.
