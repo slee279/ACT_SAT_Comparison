@@ -21,22 +21,6 @@ While there are very specific requests in the starter code, these are only requi
 
 ---
 
-### Necessary Deliverables / Submission
-
-- Materials must be submitted in a clearly commented Jupyter notebook.
-- Notebook must be submitted via pushing to your remote repo.
-- Presentation must be submitted via Slack (for a PowerPoint file) or shared via a Google Form.
-- Your notebook and presentation slides must be additionally hosted on your personal static site.
-- **Materials must be submitted by 10:00 AM on Friday, August 10th.**
-
----
-
-### Starter code
-
-For this project we will be using a Jupyter notebook. This notebook will use matplotlib for plotting and visualizing our data. This type of visualization is handy for prototyping and quick data analysis. We will discuss more advanced data visualizations for communicating your work.
-
-Open the [starter code instructions](./code/) in a Jupyter notebook.
-
 ### Dataset
 
 For this project, you'll be using two datasets:
